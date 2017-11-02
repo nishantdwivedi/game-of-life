@@ -32,6 +32,7 @@ public class GameController {
         mav.addObject("universe", universe);
         thinkABit(250); // Pause for random time
         return mav;
+        //just making game to work
     }
 
 	// Clicking the "Go" button on the cell selection page loads the initial step of the game
